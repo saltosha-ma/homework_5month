@@ -1,0 +1,22 @@
+.calculator {
+    width: 300px;
+    margin: auto;
+    text-align: center;
+}
+.row {
+    display : flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom : 10px;
+}
+.row input {
+    width : 70px;
+    padding : 5px;
+}
+.row h2 {
+    margin-bottom : 10px;
+}
+.buttons button {
+    margin-bottom : 5px;
+    padding : 10px 20px;
+}
